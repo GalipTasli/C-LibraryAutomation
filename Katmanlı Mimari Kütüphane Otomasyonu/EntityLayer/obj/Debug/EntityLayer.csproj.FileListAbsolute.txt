@@ -1,0 +1,9 @@
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\EntityLayer\obj\Debug\EntityLayer.Properties.Resources.resources
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\EntityLayer\obj\Debug\EntityLayer.csproj.GenerateResource.cache
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\EntityLayer\bin\Debug\EntityLayer.exe.config
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\EntityLayer\bin\Debug\EntityLayer.exe
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\EntityLayer\obj\Debug\EntityLayer.exe
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\EntityLayer\obj\Debug\EntityLayer.pdb

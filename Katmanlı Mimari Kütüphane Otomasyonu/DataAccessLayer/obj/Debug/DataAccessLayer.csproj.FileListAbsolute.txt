@@ -1,0 +1,13 @@
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.Properties.Resources.resources
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.exe.config
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.exe
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\DataAccessLayer\bin\Debug\EntityLayer.exe
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\DataAccessLayer\bin\Debug\EntityLayer.exe.config
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.exe
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

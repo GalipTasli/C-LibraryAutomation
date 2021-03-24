@@ -1,0 +1,38 @@
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı Mimari Kütüphane Otomasyonu.csprojAssemblyReference.cache
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı_Mimari_Kütüphane_Otomasyonu.AnaMenu.resources
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı_Mimari_Kütüphane_Otomasyonu.Emanet.resources
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı_Mimari_Kütüphane_Otomasyonu.Giris.resources
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı_Mimari_Kütüphane_Otomasyonu.KitapDüzenle.resources
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı_Mimari_Kütüphane_Otomasyonu.KitapEkle.resources
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı_Mimari_Kütüphane_Otomasyonu.KitapListele.resources
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı_Mimari_Kütüphane_Otomasyonu.KitapSil.resources
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı_Mimari_Kütüphane_Otomasyonu.OgrenciDüzenle.resources
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı_Mimari_Kütüphane_Otomasyonu.OgrenciEkle.resources
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı_Mimari_Kütüphane_Otomasyonu.OgrenciListele.resources
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı_Mimari_Kütüphane_Otomasyonu.PersonalDüzenle.resources
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı_Mimari_Kütüphane_Otomasyonu.PersonalEkle.resources
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı_Mimari_Kütüphane_Otomasyonu.PersonalSil.resources
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı_Mimari_Kütüphane_Otomasyonu.Properties.Resources.resources
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı_Mimari_Kütüphane_Otomasyonu.Teslim.resources
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı Mimari Kütüphane Otomasyonu.csproj.GenerateResource.cache
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı Mimari Kütüphane Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\bin\Debug\Katmanlı Mimari Kütüphane Otomasyonu.exe.config
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\bin\Debug\Katmanlı Mimari Kütüphane Otomasyonu.exe
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\bin\Debug\Katmanlı Mimari Kütüphane Otomasyonu.pdb
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\bin\Debug\BusinessLayer.exe
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\bin\Debug\EntityLayer.exe
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\bin\Debug\DataAccessLayer.exe
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\bin\Debug\BusinessLayer.pdb
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\bin\Debug\BusinessLayer.exe.config
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\bin\Debug\EntityLayer.pdb
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\bin\Debug\EntityLayer.exe.config
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\bin\Debug\DataAccessLayer.pdb
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\bin\Debug\DataAccessLayer.exe.config
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı Mimari Kütüphane Otomasyonu.csproj.CopyComplete
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı Mimari Kütüphane Otomasyonu.exe
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı Mimari Kütüphane Otomasyonu.pdb
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı_Mimari_Kütüphane_Otomasyonu.OgrenciSil.resources
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\bin\Debug\ZedGraph.dll
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\bin\Debug\ZedGraph.Web.dll
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\bin\Debug\ZedGraph.Web.xml
+C:\Users\galip\Desktop\katmanlı mimari kütüphane otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\Katmanlı Mimari Kütüphane Otomasyonu\obj\Debug\Katmanlı_Mimari_Kütüphane_Otomasyonu.kitap_ögrenci_grafiği.resources
